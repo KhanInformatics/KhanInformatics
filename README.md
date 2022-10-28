@@ -1,3 +1,8 @@
+## Dr Imran Khan
+NHS GP, Clinical Informatics Lead and Clinical Safety Officer <br>
+On [GMC GP Register](https://www.gmc-uk.org/doctors/7278705)  <br>
+[Email](mailto:mik786@outlook.com) / [Website](https://khaninformatics.github.io/ResumeMark/) / [LinkedIn](https://www.linkedin.com/in/imran-khan-6342bb167/) / [GitHub](https://github.com/KhanInformatics/) 
+
 I am General Practitioner with a demonstrated history of working in the health care industry. Skilled in clinical Informatics, systems engineering, primary care healthcare Information Technology (HIT) and clinical safety.
 
 I am qualified clinical safety officer and have a specialist interest in clinical safety and information governance. I have experience of both the DCB0129, DCB0160 and other clinical safety and risk management processes. I am currently a clinical safety officer within the Berkshire, Oxfordshire and Buckinghamshire ICB.
