@@ -1,4 +1,9 @@
-### Hi there 👋
+I am General Practitioner with a demonstrated history of working in the health care industry. Skilled in clinical Informatics, systems engineering, primary care healthcare Information Technology (HIT) and clinical safety.
+
+I am qualified clinical safety officer and have a specialist interest in clinical safety and information governance. I have experience of both the DCB0129, DCB0160 and other clinical safety and risk management processes. I am currently a clinical safety officer within the Berkshire, Oxfordshire and Buckinghamshire ICB.
+
+I also have a working and academic background in computer systems with PhD in Computer Science.
+
 
 <!--
 **KhanInformatics/KhanInformatics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
